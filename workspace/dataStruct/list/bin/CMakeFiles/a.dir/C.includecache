@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyx/important/dataStruct/list/list.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+list.h
+/home/lyx/important/dataStruct/list/list.h
+
+/home/lyx/important/dataStruct/list/list.h
+
+/home/lyx/important/dataStruct/list/main.c
+stdio.h
+-
+list.h
+/home/lyx/important/dataStruct/list/list.h
+
