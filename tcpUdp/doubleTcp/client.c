@@ -39,7 +39,7 @@ int main(void){
     //     bzero(buf,sizeof(buf));
     //     scanf("%s",buf);
     //     send(sockfd,buf, strlen(buf), 0);
-    // }
+    // d}
 
     pthread_t tid_receive,tid_send;
     //    int receive= pthread_create(&tid_receive, NULL,receiveHander, (void *)fd);
@@ -51,8 +51,7 @@ int main(void){
 
     
     
-    
-    
+   
     while(1);
     return 0;
 }
