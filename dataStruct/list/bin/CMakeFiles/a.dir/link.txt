@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/a.dir/main.c.o CMakeFiles/a.dir/list.c.o  -o a 

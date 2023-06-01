@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "string.h": "c",
+        "file.h": "c",
+        "fcntl.h": "c",
+        "OS.C": "cpp",
+        "stat.h": "c",
+        "cerrno": "c",
+        "errno.h": "c",
+        "ipc.h": "c",
+        "signal.h": "c",
+        "*.tcc": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "sched.h": "c",
+        "semaphore.h": "c",
+        "in.h": "c",
+        "ip.h": "c",
+        "strings.h": "c"
+    }
+}
